@@ -1,4 +1,5 @@
 nsfw_subreddits = [
+    # Subreddits which when scrapped will automatically have any emotes tagged as nsfw.
     "mylittlensfw",
     "clopmotes"
 ]
